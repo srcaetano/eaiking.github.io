@@ -205,30 +205,7 @@
   </div>
 </footer>
 
-<script>
-  (function(){
-    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    var total = 8;
-    var current = 0;
-
-    function tick(){
-      document.querySelectorAll('.step').forEach(function(s){ s.classList.remove('active'); });
-      document.querySelectorAll('.step[data-col="' + current + '"]').forEach(function(s){
-        if(!s.classList.contains('rest')) s.classList.add('active');
-      });
-      current = (current + 1) % total;
-    }
-
-    if(!reduce){
-      tick();
-      setInterval(tick, 420);
-    } else {
-      document.querySelectorAll('.step[data-col="0"]').forEach(function(s){
-        if(!s.classList.contains('rest')) s.classList.add('active');
-      });
-    }
-  })();
-</script>
+<script src="script/animation.js"></script>
 
 </body>
 </html>
