@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>E Ai King</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=JetBrains+Mono:wght@400;500;700&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#14120F;
+    --ink-2:#1c1915;
+    --ink-3:#242019;
+    --paper:#EDE6D9;
+    --paper-dim:#9a9184;
+    --line:rgba(237,230,217,0.12);
+    --funk:#E8A23D;
+    --punk:#C4432E;
+    --ragga:#A8C43C;
+    --reggae:#2F7A6B;
+
+    --font-display:'Archivo Black', 'Arial Black', sans-serif;
+    --font-mono:'JetBrains Mono', 'Courier New', monospace;
+    --font-body:'Work Sans', -apple-system, sans-serif;
+  }
+
+  *{margin:0;padding:0;box-sizing:border-box;}
+
+  html{scroll-behavior:smooth;}
+
+  body{
+    background:var(--ink);
+    color:var(--paper);
+    font-family:var(--font-body);
+    line-height:1.5;
+    overflow-x:hidden;
+  }
+
+  body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    pointer-events:none;
+    z-index:1;
+    opacity:0.035;
+    background-image:repeating-linear-gradient(0deg, #fff 0px, #fff 1px, transparent 1px, transparent 3px);
+  }
+
+  a{color:inherit;text-decoration:none;}
+  a:focus-visible, button:focus-visible{outline:2px solid var(--paper); outline-offset:3px;}
+
+  .wrap{max-width:1180px;margin:0 auto;padding:0 32px;}
+
+  /* ---------- NAV ---------- */
+  .nav{
+    position:sticky;top:0;z-index:50;
+    background:rgba(20,18,15,0.82);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);
+  }
+  .nav .wrap{
+    display:flex;align-items:center;justify-content:space-between;
+    height:72px;
+  }
+  .brand{
+    display:flex;align-items:center;gap:10px;
+    font-family:var(--font-mono);font-weight:700;
+    font-size:15px;letter-spacing:0.02em;
+  }
+  .brand-mark{
+    font-family:var(--font-mono);font-size:13px;
+    color:var(--ink);background:var(--paper);
+    padding:4px 7px;border-radius:3px;letter-spacing:0.05em;
+  }
+  .nav-links{display:flex;gap:36px;font-family:var(--font-mono);font-size:13px;letter-spacing:0.04em;}
+  .nav-links a{color:var(--paper-dim);transition:color .2s;position:relative;}
+  .nav-links a:hover{color:var(--paper);}
+  .nav-links a.active{color:var(--paper);}
+  .nav-links a.active::after{
+    content:"";position:absolute;left:0;right:0;bottom:-25px;height:2px;
+    background:var(--ragga);
+  }
+  @media(max-width:640px){
+    .nav-links{gap:20px;font-size:11px;}
+    .brand span.full{display:none;}
+  }
+
+  /* ---------- HERO ---------- */
+  .hero{
+    position:relative;z-index:2;
+    padding:88px 0 72px;
+    border-bottom:1px solid var(--line);
+  }
+
+  .seq{
+    display:flex;flex-direction:column;gap:10px;
+    max-width:640px;margin:0 auto 28px;
+    position:relative;
+  }
+  .seq-row{display:flex;align-items:center;gap:14px;}
+  .seq-label{
+    width:64px;flex-shrink:0;
+    font-family:var(--font-mono);font-size:11px;letter-spacing:0.06em;
+    text-transform:uppercase;color:var(--paper-dim);
+  }
+  .seq-steps{display:flex;gap:6px;flex:1;position:relative;}
+  .step{
+    flex:1;aspect-ratio:1;border-radius:4px;
+    display:flex;align-items:center;justify-content:center;
+    background:var(--ink-3);
+    border:1px solid var(--line);
+    font-family:var(--font-mono);font-size:12px;font-weight:700;
+    transition:transform .15s ease, box-shadow .15s ease;
+    color:transparent;
+  }
+  .step.kick{color:currentColor;}
+  .step.snare{color:currentColor;}
+  .step.hat{color:currentColor;font-size:16px;}
+  .step[data-row="funk"]{color:var(--funk);}
+  .step[data-row="punk"]{color:var(--punk);}
+  .step[data-row="ragga"]{color:var(--ragga);}
+  .step[data-row="reggae"]{color:var(--reggae);}
+  .step.active{
+    transform:translateY(-3px);
+    box-shadow:0 0 0 1px currentColor, 0 6px 16px -4px currentColor;
+  }
+  .step.rest{opacity:0.4;}
+
+  .hero-caption{
+    text-align:center;font-family:var(--font-mono);font-size:11px;
+    color:var(--paper-dim);letter-spacing:0.03em;margin-bottom:40px;
+  }
+
+  .hero h1{
+    font-family:var(--font-display);
+    font-size:clamp(52px, 11vw, 128px);
+    text-align:center;letter-spacing:-0.01em;line-height:0.95;
+    margin-bottom:20px;
+  }
+
+  .hero-sub{
+    max-width:560px;margin:0 auto 40px;
+    text-align:center;font-size:18px;color:var(--paper-dim);
+    font-weight:400;
+  }
+
+  .legend{
+    display:flex;justify-content:center;gap:28px;flex-wrap:wrap;
+    font-family:var(--font-mono);font-size:12px;letter-spacing:0.03em;
+  }
+  .legend-item{display:flex;align-items:center;gap:8px;color:var(--paper-dim);}
+  .dot{width:9px;height:9px;border-radius:50%;flex-shrink:0;}
+  .dot.funk{background:var(--funk);} .dot.punk{background:var(--punk);}
+  .dot.ragga{background:var(--ragga);} .dot.reggae{background:var(--reggae);}
+
+  @media(max-width:640px){
+    .hero{padding:56px 0 48px;}
+    .seq-label{width:44px;font-size:9px;}
+    .step{border-radius:3px;}
+    .step.hat{font-size:12px;}
+    .legend{gap:16px;}
+  }
+
+  /* ---------- SECTION SHARED ---------- */
+  section{padding:96px 0;position:relative;z-index:2;}
+  .eyebrow{
+    font-family:var(--font-mono);font-size:12px;letter-spacing:0.08em;
+    color:var(--ragga);text-transform:uppercase;margin-bottom:20px;display:block;
+  }
+
+  /* ---------- BIO ---------- */
+  .bio{border-bottom:1px solid var(--line);}
+  .bio-grid{
+    display:grid;grid-template-columns:1.1fr 0.9fr;gap:64px;align-items:start;
+  }
+  .bio blockquote{
+    font-family:var(--font-display);
+    font-size:clamp(28px,3.4vw,42px);
+    line-height:1.15;letter-spacing:-0.01em;
+    margin-bottom:28px;
+  }
+  .bio p{color:var(--paper-dim);font-size:16px;max-width:480px;margin-bottom:16px;}
+  .bio-photo{
+    aspect-ratio:4/5;border-radius:6px;
+    background:
+      radial-gradient(circle at 30% 20%, rgba(232,162,61,0.35), transparent 55%),
+      radial-gradient(circle at 75% 80%, rgba(47,122,107,0.4), transparent 55%),
+      linear-gradient(160deg, var(--ink-3), var(--ink-2));
+    border:1px solid var(--line);
+    display:flex;align-items:flex-end;padding:20px;
+    font-family:var(--font-mono);font-size:11px;color:var(--paper-dim);
+  }
+  @media(max-width:820px){
+    .bio-grid{grid-template-columns:1fr;gap:36px;}
+    .bio-photo{order:-1;max-width:320px;}
+  }
+
+  /* ---------- DISCOGRAFIA ---------- */
+  .disco-head{
+    display:flex;justify-content:space-between;align-items:flex-end;
+    margin-bottom:44px;flex-wrap:wrap;gap:12px;
+  }
+  .disco-head h2{font-family:var(--font-display);font-size:clamp(30px,4vw,44px);}
+  .disco-head p{color:var(--paper-dim);font-size:14px;max-width:280px;}
+
+  .disco-grid{
+    display:grid;grid-template-columns:repeat(4,1fr);gap:24px;
+  }
+  .card{
+    display:flex;flex-direction:column;
+    border:1px solid var(--line);border-radius:8px;overflow:hidden;
+    background:var(--ink-2);
+    transition:border-color .2s;
+  }
+  .card:hover{border-color:var(--paper-dim);}
+  .cover{
+    aspect-ratio:1;position:relative;
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--font-display);color:var(--ink);
+    font-size:15px;text-align:center;padding:14px;
+  }
+  .cover span{position:relative;z-index:2;}
+  .card-body{padding:18px 18px 20px;display:flex;flex-direction:column;gap:12px;flex:1;}
+  .card-title{font-weight:600;font-size:15px;}
+  .card-year{font-family:var(--font-mono);font-size:11px;color:var(--paper-dim);}
+  .tags{display:flex;gap:6px;flex-wrap:wrap;}
+  .tag{
+    font-family:var(--font-mono);font-size:10px;letter-spacing:0.03em;
+    padding:4px 8px;border-radius:20px;border:1px solid currentColor;
+  }
+  .tag.funk{color:var(--funk);} .tag.punk{color:var(--punk);}
+  .tag.ragga{color:var(--ragga);} .tag.reggae{color:var(--reggae);}
+  .cta{
+    margin-top:auto;
+    font-family:var(--font-mono);font-size:12px;letter-spacing:0.03em;
+    display:inline-flex;align-items:center;gap:8px;
+    padding:10px 0;border-top:1px solid var(--line);
+    color:var(--paper);transition:gap .2s;
+  }
+  .cta:hover{gap:12px;}
+
+  @media(max-width:920px){.disco-grid{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:520px){.disco-grid{grid-template-columns:1fr;}}
+
+  /* ---------- FOOTER ---------- */
+  footer{
+    border-top:1px solid var(--line);
+    padding:48px 0;position:relative;z-index:2;
+  }
+  .foot-row{
+    display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:20px;
+  }
+  .social{display:flex;gap:24px;font-family:var(--font-mono);font-size:13px;flex-wrap:wrap;}
+  .social a{color:var(--paper-dim);}
+  .social a:hover{color:var(--paper);}
+  .credit{font-family:var(--font-mono);font-size:11px;color:var(--paper-dim);}
+
+  @media (prefers-reduced-motion: reduce){
+    html{scroll-behavior:auto;}
+    .step{transition:none;}
+  }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="wrap">
+    <div class="brand">
+      <span class="brand-mark">O×–</span>
+      <span class="full">E AÍ KING</span>
+    </div>
+    <div class="nav-links">
+      <a href="#sobre" class="active">SOBRE</a>
+      <a href="#obras">OBRAS</a>
+      <a href="#" >POSTS</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+
+    <div class="seq" aria-hidden="true">
+      <div class="seq-row">
+        <span class="seq-label">funk</span>
+        <div class="seq-steps">
+          <div class="step kick" data-row="funk" data-col="0">●</div>
+          <div class="step rest" data-row="funk" data-col="1"></div>
+          <div class="step kick" data-row="funk" data-col="2">●</div>
+          <div class="step rest" data-row="funk" data-col="3"></div>
+          <div class="step snare" data-row="funk" data-col="4">✕</div>
+          <div class="step rest" data-row="funk" data-col="5"></div>
+          <div class="step hat" data-row="funk" data-col="6">–</div>
+          <div class="step rest" data-row="funk" data-col="7"></div>
+        </div>
+      </div>
+      <div class="seq-row">
+        <span class="seq-label">punk</span>
+        <div class="seq-steps">
+          <div class="step kick" data-row="punk" data-col="0">●</div>
+          <div class="step hat" data-row="punk" data-col="1">–</div>
+          <div class="step snare" data-row="punk" data-col="2">✕</div>
+          <div class="step hat" data-row="punk" data-col="3">–</div>
+          <div class="step rest" data-row="punk" data-col="4"></div>
+          <div class="step kick" data-row="punk" data-col="5">●</div>
+          <div class="step snare" data-row="punk" data-col="6">✕</div>
+          <div class="step rest" data-row="punk" data-col="7"></div>
+        </div>
+      </div>
+      <div class="seq-row">
+        <span class="seq-label">ragga</span>
+        <div class="seq-steps">
+          <div class="step kick" data-row="ragga" data-col="0">●</div>
+          <div class="step rest" data-row="ragga" data-col="1"></div>
+          <div class="step hat" data-row="ragga" data-col="2">–</div>
+          <div class="step kick" data-row="ragga" data-col="3">●</div>
+          <div class="step rest" data-row="ragga" data-col="4"></div>
+          <div class="step hat" data-row="ragga" data-col="5">–</div>
+          <div class="step snare" data-row="ragga" data-col="6">✕</div>
+          <div class="step hat" data-row="ragga" data-col="7">–</div>
+        </div>
+      </div>
+      <div class="seq-row">
+        <span class="seq-label">reggae</span>
+        <div class="seq-steps">
+          <div class="step hat" data-row="reggae" data-col="0">–</div>
+          <div class="step hat" data-row="reggae" data-col="1">–</div>
+          <div class="step kick" data-row="reggae" data-col="2">●</div>
+          <div class="step rest" data-row="reggae" data-col="3"></div>
+          <div class="step hat" data-row="reggae" data-col="4">–</div>
+          <div class="step rest" data-row="reggae" data-col="5"></div>
+          <div class="step kick" data-row="reggae" data-col="6">●</div>
+          <div class="step hat" data-row="reggae" data-col="7">–</div>
+        </div>
+      </div>
+    </div>
+
+    <p class="hero-caption">bumbo, caixa e chimbal — cada linha é um ritmo, cada cor uma identidade</p>
+
+    <h1>E AI KING</h1>
+    <p class="hero-sub">Estúdio de uma pessoa só. Funk, punk, ragga e reggae, gravados em casa, faixa por faixa, sem pedir licença pra ninguém.</p>
+
+    <div class="legend">
+      <span class="legend-item"><span class="dot funk"></span>funk</span>
+      <span class="legend-item"><span class="dot punk"></span>punk</span>
+      <span class="legend-item"><span class="dot ragga"></span>ragga</span>
+      <span class="legend-item"><span class="dot reggae"></span>reggae</span>
+    </div>
+
+  </div>
+</header>
+
+<main>
+
+  <section class="bio" id="sobre">
+    <div class="wrap">
+      <span class="eyebrow">Sobre</span>
+      <div class="bio-grid">
+        <div>
+          <blockquote>Uma forma de fazer as pazes com a música, sozinho.</blockquote>
+          <p>Saiu de uma banda em 2008 e descobriu que dava pra gravar bateria, teclado, baixo, guitarra e voz sem depender de mais ninguém. Publicou faixa a faixa pelo Blogspot antes do Spotify existir — em 2010 nasceu o primeiro disco.</p>
+          <p>Hoje é isso: rock, ska, samba rock e dancehall se misturando sem forçar a barra, transformando o que acontece de bom e de ruim em música.</p>
+        </div>
+        <div class="bio-photo">retrato do artista — placeholder</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="discography" id="obras">
+    <div class="wrap">
+      <div class="disco-head">
+        <h2>Discografia</h2>
+        <p>Quatro discos, um livro e uma pilha de singles avulsos — cada um com sua própria mistura de ritmo.</p>
+      </div>
+
+      <div class="disco-grid">
+
+        <div class="card">
+          <div class="cover" style="background:linear-gradient(155deg, var(--funk), #7a5420);">
+            <span>E AÍ KING?</span>
+          </div>
+          <div class="card-body">
+            <div class="card-title">E Aí King?</div>
+            <div class="card-year">2010 — disco de estreia</div>
+            <div class="tags"><span class="tag funk">funk</span><span class="tag punk">punk</span></div>
+            <a class="cta" href="https://onerpm.link/2492153310">Ouça / Stream →</a>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="cover" style="background:linear-gradient(155deg, var(--reggae), #17352e);">
+            <span>CO-LABS<br>VOL. 1</span>
+          </div>
+          <div class="card-body">
+            <div class="card-title">Co-Labs Volume 1</div>
+            <div class="card-year">2021 — parcerias</div>
+            <div class="tags"><span class="tag ragga">ragga</span><span class="tag reggae">reggae</span></div>
+            <a class="cta" href="https://onerpm.link/323458888910">Ouça / Stream →</a>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="cover" style="background:linear-gradient(155deg, var(--punk), #5c1c11);">
+            <span>NÃO REPRESE<br>O RIO</span>
+          </div>
+          <div class="card-body">
+            <div class="card-title">Não Represe o Rio</div>
+            <div class="card-year">2022 — disco + livro</div>
+            <div class="tags"><span class="tag punk">punk</span><span class="tag reggae">reggae</span></div>
+            <a class="cta" href="https://onerpm.link/128350492054">Ouça / Stream →</a>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="cover" style="background:linear-gradient(155deg, var(--ragga), #4c5c1a);">
+            <span>DUBS<br>&amp; JAMS</span>
+          </div>
+          <div class="card-body">
+            <div class="card-title">Dubs &amp; Jams</div>
+            <div class="card-year">2023 — versões em chave dub</div>
+            <div class="tags"><span class="tag ragga">ragga</span><span class="tag reggae">reggae</span></div>
+            <a class="cta" href="https://onerpm.link/625015263852">Ouça / Stream →</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-row">
+      <div class="social">
+        <a href="https://open.spotify.com/intl-pt/artist/4Odwxam5E8qb3VJX07OnW1">Spotify</a>
+        <a href="https://www.youtube.com/user/eaiking">YouTube</a>
+        <a href="https://soundcloud.com/e-ai-king">SoundCloud</a>
+        <a href="https://www.instagram.com/eaiking/">Instagram</a>
+        <a href="https://www.facebook.com/eaikingtudobem">Facebook</a>
+        <a href="https://x.com/eaiking">X</a>
+      </div>
+      <span class="credit">E AI KING — 2026</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  (function(){
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var total = 8;
+    var current = 0;
+
+    function tick(){
+      document.querySelectorAll('.step').forEach(function(s){ s.classList.remove('active'); });
+      document.querySelectorAll('.step[data-col="' + current + '"]').forEach(function(s){
+        if(!s.classList.contains('rest')) s.classList.add('active');
+      });
+      current = (current + 1) % total;
+    }
+
+    if(!reduce){
+      tick();
+      setInterval(tick, 420);
+    } else {
+      document.querySelectorAll('.step[data-col="0"]').forEach(function(s){
+        if(!s.classList.contains('rest')) s.classList.add('active');
+      });
+    }
+  })();
+</script>
+
+</body>
+</html>
