@@ -250,9 +250,9 @@
     font-family:var(--font-mono);font-size:12px;letter-spacing:0.03em;
     display:inline-flex;align-items:center;gap:8px;
     padding:10px 0;border-top:1px solid var(--line);
-    color:var(--ragga);transition:gap .2s, color .2s;
+    color:var(--paper);transition:gap .2s, color .2s;
   }
-  .cta:hover{gap:12px;color:var(--paper);}
+  .cta:hover{gap:12px;color:var(--ragga);}
 
   @media(max-width:920px){.disco-grid{grid-template-columns:repeat(2,1fr);}}
   @media(max-width:520px){.disco-grid{grid-template-columns:1fr;}}
