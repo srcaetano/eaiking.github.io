@@ -9,7 +9,7 @@ eyebrow: Obras
 
 ## Tributo Baré-Cola
 
-[<img src="https://srcaetano.github.io/eaiking.github.io/photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="500" height="500">](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ)
+[<img src="https://srcaetano.github.io/eaiking.github.io/photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="250" height="250">](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ)
 
 [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ)
 
