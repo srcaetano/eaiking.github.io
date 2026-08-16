@@ -232,6 +232,12 @@
   .card-body{padding:18px 18px 20px;display:flex;flex-direction:column;gap:12px;flex:1;}
   .card-title{font-weight:600;font-size:15px;}
   .card-year{font-family:var(--font-mono);font-size:11px;color:var(--paper-dim);}
+  .card-year a{
+    color:var(--paper);
+    border-bottom:1px solid var(--ragga);
+    transition:color .2s;
+  }
+  .card-year a:hover{color:var(--ragga);}
   .tags{display:flex;gap:6px;flex-wrap:wrap;}
   .tag{
     font-family:var(--font-mono);font-size:10px;letter-spacing:0.03em;
