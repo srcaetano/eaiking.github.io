@@ -8,7 +8,9 @@ eyebrow: Obras
 
 ## Tributo Baré-Cola
 
-[<img src="https://srcaetano.github.io/eaiking.github.io/photos/Tributo_capa.png" alt="Tributo Baré-Cola" width="500" height="500">
+[<img src="https://srcaetano.github.io/eaiking.github.io/photos/Tributo_capa.png" alt="Tributo Baré-Cola" width="500" height="500">](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ)
+
+[Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ)
 
 Em 2025/26, produzi o [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ): uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada [“Geração Baré-Cola“](https://www.youtube.com/@geracaobare-cola5773). A ideia nasceu simples: usar o efeito de rede entre artistas para dar fôlego novo a essas músicas, convidando outros músicos a gravar em cima de uma pré-produção que eu preparava faixa a faixa, cada instrumento em trilha separada. Entraram no projeto releituras de:
 
