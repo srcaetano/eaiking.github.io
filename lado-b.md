@@ -4,7 +4,8 @@ title: Lado B
 eyebrow: Obras
 ---
 
-1. Tributo Baré Cola
+1. [Tributo Baré-Cola](#tributo-baré-cola)
+
 
 ## Tributo Baré-Cola
 
