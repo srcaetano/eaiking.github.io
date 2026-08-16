@@ -332,8 +332,11 @@
   .prose ul:has(img) > li{
     display:grid;
     grid-template-columns:88px 1fr;
-    align-items:center;
+    align-items:start;
     column-gap:18px;
+  }
+  .prose ul:has(img) p{
+    margin:0;
   }
   .prose ul:has(img) > li > ul{
     grid-column:1;
