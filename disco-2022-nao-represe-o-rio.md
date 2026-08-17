@@ -24,7 +24,7 @@ Um dia, eu estava na beirada do córrego pensando sobre minhas dúvidas em lanç
 
 A capa é uma foto que tirei do córrego.
 
-## _Tracklist_
+### _Tracklist_
 
 - E Aí King, Tudo Certo — Samba rock de abertura do disco, falando sobre meu amor à música.
 - Calçada na Beira do Mar — Um samba rock com guitarras distorcidas (Jorge Ben + 311) sobre uma belíssima moça passeando pelo calçadão de Ipanema.
@@ -38,6 +38,6 @@ A capa é uma foto que tirei do córrego.
 - O Viajante — Letra sobre um exercício vedanta do mestre Mooji, onde o participante é convidado a largar suas bagagens da vida para poder descansar junto ao mestre em busca de paz.
 - Vou Ali Ouvir o Rio — Música instrumental que homenageia o córrego do Parque Olhos D’água (de onde boa parte da inspiração do disco veio) e o livro Sidarta, de Hermann Hesse.
 
-## O livro
+### O livro
 
 O livro que acompanha o disco, "Não Represe o Rio: da Procrastinação ao Fluxo" (https://www.amazon.com.br/), dá mais detalhes do meu processo de terapia e cura, acompanhando cada música e seus significados pessoais.
