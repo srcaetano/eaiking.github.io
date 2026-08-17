@@ -5,7 +5,7 @@ eyebrow: Obras
 ---
 
 
-[![Não Represe o Rio (2022)](photos/Capa_Co-Labs_volume1_final.jpeg)](https://onerpm.link/128350492054)
+[![Não Represe o Rio (2022)](photos/Capa_Nao_Represe_o_Rio_3000x3000.jpeg)](https://onerpm.link/128350492054)
 >[Não Represe o Rio (2022)](https://onerpm.link/128350492054)
 
 _Não Represe o Rio_ é meu terceiro disco, e meu predileto. Além de disco, ele virou o livro [Não Represe o Rio: da Procrastinação ao Fluxo](https://www.amazon.com.br/N%C3%A3o-Represe-Rio-procrastina%C3%A7%C3%A3o-fluxo-ebook/dp/B0B9YN5DK5). Ambos nasceram da minha digestão de tudo o que aconteceu na pandemia de covid-19, especialmente comigo mesmo:

@@ -9,8 +9,8 @@ eyebrow: Obras
 
 Depois do primeiro disco, alguns amigos quiseram gravar comigo: eu fazia os instrumentais, eles traziam letra e melodia.
 
-|     |     |
-|:---:|:---:|
+|    |    |
+|:---|:---|
 | ![Ace Crew Dirty](photos/Co-Labs_Vol1_ACD.jpeg) | [Ace Crew Dirty](https://open.spotify.com/artist/7Bk6upgJEYC9HHPm2AYU1G) |
 | ![Dubti](photos/Co-Labs_Vol1_Dubti.jpeg) | [Dubti](https://open.spotify.com/artist/6CpQ2G5UQCbuYJSxWu4uRD) |
 | ![Pacômelézotrés](photos/Co-Labs_Vol1_Paco.jpeg) | [Pacômelézotrés](https://open.spotify.com/artist/1cIdczsJpOsRoUfagpYERM) |
@@ -43,7 +43,7 @@ Além do disco, fiz 5 episódios de um podcast com os músicos do disco, relembr
 Além do disco, gravei conversas individuais com cada um dos cantores em formato de podcast:
 
 
-[![Co-Labs Vol. 1 (2021)](photos/Co-Labs_Vol1_podcast.jpeg)](https://onerpm.link/323458888910)
+[![Co-Labs Vol. 1 (2021)](photos/Co-Labs_Vol1_podcast.jpeg)](https://www.youtube.com/playlist?list=PLS6NF350A-ZJTEgEAMvvcWEs8moCgDAgo)
 > [Podcast Co-Labs Vol. 1](https://www.youtube.com/playlist?list=PLS6NF350A-ZJTEgEAMvvcWEs8moCgDAgo)
 
 ## Referências

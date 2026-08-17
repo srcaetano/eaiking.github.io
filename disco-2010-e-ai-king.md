@@ -30,13 +30,13 @@ O disco foi mixado e masterizado por [Rafael Maranhão](https://www.instagram.co
 
 ### Calor do Dia
 
-*Calor do Dia* não é totalmente original, mas uma livre versão — não exatamente igual — de uma música do Yellowman, [Love It](http://www.youtube.com/watch?v=uDz4EGcQ0Ag).
+*Calor do Dia* não é totalmente original, mas uma livre versão — não exatamente igual — de uma música do Yellowman, [Love It](https://www.youtube.com/watch?v=27qQUDVQvn0).
 
-Yellowman é um dos [grandes cantores do dancehall jamaicano da década de 80](http://en.wikipedia.org/wiki/Yellowman) e uma referência para muita gente. O 311, por exemplo, aproveitou o começo de uma música dele, [Mr. Chin](http://www.youtube.com/watch?v=9CGRUY3AsCM), em [All Mixed Up](http://www.youtube.com/watch?v=NPSBfIRVqJg).
+Yellowman é um dos [grandes cantores do dancehall jamaicano da década de 80](http://en.wikipedia.org/wiki/Yellowman) e uma referência para muita gente. O 311, por exemplo, aproveitou o começo de uma música dele, [Mr. Chin](https://www.youtube.com/watch?v=zHBD6DJzUq4), em [All Mixed Up](http://www.youtube.com/watch?v=NPSBfIRVqJg).
 
 A melodia de outra de suas músicas, [Zunguzungunguzunguzeng](https://www.youtube.com/watch?v=HV46OGU7ksE), foi basicamente reaproveitada em pelo menos 14 músicas diferentes, como mostra [esse artigo muito interessante](http://wayneandwax.com/?p=137).
 
-Aqui no Brasil, ele é mais conhecido por 2 menções do Planet Hemp na música <a href="http://www.youtube.com/watch?v=P-W2JmG9vtQ">Mantenha o Respeito</a>: [_Nobody move, nobody get hurt_](http://www.youtube.com/watch?v=-Nh5CapYICg), _ninguém se move, ninguém se machucará_ e _Eu ouço **Yellow**, Buju Banton, Cutty Ranks, Shabba, >porque eles não querem me impedir de fazer fumaça_. 
+Aqui no Brasil, ele é mais conhecido por 2 menções do Planet Hemp na música <a href="http://www.youtube.com/watch?v=P-W2JmG9vtQ">Mantenha o Respeito</a>: [_Nobody move, nobody get hurt_](https://www.youtube.com/watch?v=0g73fhu8TAg), _ninguém se move, ninguém se machucará_ e _Eu ouço **Yellow**, Buju Banton, Cutty Ranks, Shabba, >porque eles não querem me impedir de fazer fumaça_. 
 
 Eu sempre me amarrei em Yellowman, especialmente na melodia do refrão de *Love It*. Mas o resto da letra era bem tosco, então a re-adaptei para algo mais... palatável.
 
@@ -108,8 +108,8 @@ Aprendi muito com ele sobre **gravação, composição e sobre o efeito que uma 
 
 ## Videoclipe de "Bom Senso"
 
-[![E Ai King - Bom Senso](https://img.youtube.com/vi/YYGAHIA1fZE/0.jpg)](https://www.youtube.com/watch?v=-7PD0tLPXcI "E Ai King - Bom Senso")
-> [E Ai King - Bom Senso (2011)](https://www.youtube.com/watch?v=YYGAHIA1fZE)
+[![E Ai King - Bom Senso](https://img.youtube.com/vi/-7PD0tLPXcI/0.jpg)](https://www.youtube.com/watch?v=-7PD0tLPXcI "E Ai King - Bom Senso")
+> [E Ai King - Bom Senso (2011)](https://www.youtube.com/watch?v=-7PD0tLPXcI)
 
 Também lancei um video clipe da música de trabalho do primeiro disco, E Aí King?, gravado em Novembro de 2010, em Maragogi, Alagoas. Dancehall com samba rock sobre encontrar seu caminho num mundo caótico e cheio de informação.
 

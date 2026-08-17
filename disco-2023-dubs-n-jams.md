@@ -4,7 +4,7 @@ title: "Dubs & Jams (2023)"
 eyebrow: Obras
 ---
 
-[![Dubs & Jams (2023)](photos/Capa_Co-Labs_volume1_final.jpeg)](https://onerpm.link/625015263852)
+[![Dubs & Jams (2023)](photos/Capa_Dubs_Jams_3000x3000.jpeg)](https://onerpm.link/625015263852)
 >[Dubs & Jams (2023)](https://onerpm.link/625015263852)
 
 Em 2023, lancei **Dubs & Jams**, inspirado nos discos [The In Sound From Way Out!](https://open.spotify.com/intl-pt/album/0nA01XOVBUoi1zDVVYKz4i) dos Beastie Boys, [I & I Survived – Dub](https://open.spotify.com/intl-pt/album/0Gm1JBgQzsiLKIiLuP7x8w) dos Bad Brains, e [Dreaming From an Iron Gate](https://open.spotify.com/intl-pt/album/7FQLR8rbdw5zx73xipEQRb) de Groundation e Brain Damage.
@@ -23,7 +23,10 @@ Esse disco conta com uma música nova e versões instrumentais de músicas minha
 
 ### Videoclipe de "Dub Pills"
 
-Além do disco, lancei o [videoclipe de Dub Pills](https://www.youtube.com/watch?v=Pqxpqldl9KE), gravado inteiramente na casa da vó da minha esposa com meu celular, procurando a psicodelia diária nos móveis, paredes, portas e plantas.
+[![E Ai King - Dub Pills](https://img.youtube.com/vi/Pqxpqldl9KE/0.jpg)](https://www.youtube.com/watch?v=Pqxpqldl9KE "E Ai King - Dub Pills")
+> [E Ai King - Dub Pills (2024)](https://www.youtube.com/watch?v=Pqxpqldl9KE)
+
+Além do disco, lancei o videoclipe de Dub Pills, gravado inteiramente na casa da vó da minha esposa com meu celular, procurando a psicodelia diária nos móveis, paredes, portas e plantas.
 
 A joaninha pousando no meu braço enquanto eu filmava foi uma sincronicidade das mais felizes.
 
