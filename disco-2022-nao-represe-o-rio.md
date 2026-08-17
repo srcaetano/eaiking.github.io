@@ -1,4 +1,8 @@
-# Não Represe o Rio (2022)
+---
+layout: page
+title: Não Represe o Rio (2022)
+eyebrow: Obras
+---
 
 "Não Represe o Rio" (https://onerpm.link/) é meu terceiro disco, e meu predileto. Além de disco, ele virou o livro "Não Represe o Rio: da Procrastinação ao Fluxo" (https://www.amazon.com.br/). Ambos nasceram da minha digestão de tudo o que aconteceu na pandemia de covid-19, especialmente comigo mesmo:
 
