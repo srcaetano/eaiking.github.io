@@ -1,4 +1,8 @@
-# E Aí King? (2010)
+---
+layout: page
+title: E Aí King? (2010)
+eyebrow: Obras
+---
 
 Neste primeiro disco, dei vazão a vários temas que me interessavam na época:
 
