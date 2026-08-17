@@ -5,8 +5,8 @@ eyebrow: Obras
 ---
 
 1. [Tributo Baré-Cola](#tributo-baré-cola)
-2. [Insta Experiments](#insta-experiments)
-3. [Mashups](#mashups)
+2. [Mashups](#mashups)
+3. [Insta Experiments](#insta-experiments)
 4. [Playlists](#playlists)
 
 ## Tributo Baré-Cola
@@ -37,18 +37,17 @@ A ideia nasceu simples: usar o efeito de rede entre artistas para dar fôlego no
 | ![Raimundos](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_Raimundos.jpg) | **Raimundos:** "Eu Quero Ver o Oco / Herbocinética", "Puteiro em João Pessoa" e "Rapante" |
 | ![Rumbora](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_Rumbora.jpg) | **Rumbora:** "Chapirous" e "Querendo" |
 
-## Insta Experiments
-
-|   |   |
-|---|---|
-|[![Insta Experiments](photos/insta_exp_vol1.jpeg)](https://www.youtube.com/playlist?list=PLS6NF350A-ZJWt8zjqGFBWZMMxmJqNJWh) | [Insta Experiments](https://www.youtube.com/playlist?list=PLS6NF350A-ZJWt8zjqGFBWZMMxmJqNJWh) são covers diversos lançados no Instagram (Red Hot Chili Peppers, Bad Brains, 311, Seeed, Dr. Dre, 50 Cent, Michael Jackson, Beatles, Nirvana, dentre outros) |
-
-
 ## Mashups
 
 |   |   |
 |---|---|
 |[![Mashups](photos/Imgs_estudio_05.jpg)](https://www.youtube.com/playlist?list=PLS6NF350A-ZLqrCYTOCw28ZGrdv4IFgib) | [Mashups](https://www.youtube.com/playlist?list=PLS6NF350A-ZLqrCYTOCw28ZGrdv4IFgib): guitarras, batidas e refrões emprestados, recombinados até virar outra coisa. Às vezes a graça está em pegar duas coisas que não deveriam se encontrar e ver o que surge. |
+
+## Insta Experiments
+
+|   |   |
+|---|---|
+|[![Insta Experiments](photos/insta_exp_vol1.jpeg)](https://www.youtube.com/playlist?list=PLS6NF350A-ZJWt8zjqGFBWZMMxmJqNJWh) | [Insta Experiments](https://www.youtube.com/playlist?list=PLS6NF350A-ZJWt8zjqGFBWZMMxmJqNJWh) são covers diversos lançados no Instagram (Red Hot Chili Peppers, Bad Brains, 311, Seeed, Dr. Dre, 50 Cent, Michael Jackson, Beatles, Nirvana, dentre outros) |
 
 ## Playlists
 
