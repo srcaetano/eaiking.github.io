@@ -6,7 +6,8 @@ eyebrow: Obras
 
 |  |  |
 |---|---|
-| <img src="https://srcaetano.github.io/eaiking.github.io/photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="250" height="250"> | Em 2025/26, produzi o [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ): uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada ["Geração Baré-Cola"](https://www.youtube.com/@geracaobare-cola5773). |
+| <img src="photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="250" height="250"> | Em 2025/26, produzi o [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ): uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada ["Geração Baré-Cola"](https://www.youtube.com/@geracaobare-cola5773). |
+<!-- | <img src="https://srcaetano.github.io/eaiking.github.io/photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="250" height="250"> | Em 2025/26, produzi o [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ): uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada ["Geração Baré-Cola"](https://www.youtube.com/@geracaobare-cola5773). | -->
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=s7juJN1vuNKLUFBC&amp;list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
 
@@ -19,6 +20,19 @@ A ideia nasceu simples: usar o efeito de rede entre artistas para dar fôlego no
 
 |  |  |
 |---|---|
+| ![Os Cabeloduro](photos/Tributo_Cabeloduro.jpg) | **Os Cabeloduro:** "A Barca" e "Na Mesma Moeda" |
+| ![Câmbio Negro](photos/Tributo_Cambio_Negro.jpg) | **Câmbio Negro:** "Esse É Meu País" |
+| ![Cássia Eller](photos/Tributo_Cassia_Eller_2_Album_Cover.jpg) | **Cássia Eller:** "Malandragem" |
+| ![DFC](photos/Tributo_DFC.jpg) | **DFC:** "Molecada 666" e "Religião" |
+| ![Little Quail and the Mad Birds](photos/Tributo_little-quail-and-the-mad-birds.jpg) | **Little Quail and the Mad Birds:** "Azarar na W3" e "Dezesseis" |
+| ![Maskavo Roots](photos/Tributo_maskavo.jpg) | **Maskavo Roots:** "Tempestade" e "45" |
+| ![Natiruts](photos/Tributo_Natiruts.jpg) | **Natiruts:** "Reggae de Raiz" |
+| ![Pravda](photos/Tributo_pravda.jpg) | **Pravda:** "66" |
+| ![Raimundos](photos/Tributo_Raimundos.jpg) | **Raimundos:** "Eu Quero Ver o Oco / Herbocinética", "Puteiro em João Pessoa" e "Rapante" |
+| ![Rumbora](photos/Tributo_Rumbora.jpg) | **Rumbora:** "Chapirous" e "Querendo" |
+
+<!-- |  |  |
+|---|---|
 | ![Os Cabeloduro](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_Cabeloduro.jpg) | **Os Cabeloduro:** "A Barca" e "Na Mesma Moeda" |
 | ![Câmbio Negro](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_Cambio_Negro.jpg) | **Câmbio Negro:** "Esse É Meu País" |
 | ![Cássia Eller](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_Cassia_Eller_2_Album_Cover.jpg) | **Cássia Eller:** "Malandragem" |
@@ -28,7 +42,7 @@ A ideia nasceu simples: usar o efeito de rede entre artistas para dar fôlego no
 | ![Natiruts](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_Natiruts.jpg) | **Natiruts:** "Reggae de Raiz" |
 | ![Pravda](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_pravda.jpg) | **Pravda:** "66" |
 | ![Raimundos](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_Raimundos.jpg) | **Raimundos:** "Eu Quero Ver o Oco / Herbocinética", "Puteiro em João Pessoa" e "Rapante" |
-| ![Rumbora](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_Rumbora.jpg) | **Rumbora:** "Chapirous" e "Querendo" |
+| ![Rumbora](https://srcaetano.github.io/eaiking.github.io/photos/Tributo_Rumbora.jpg) | **Rumbora:** "Chapirous" e "Querendo" | -->
 
 O critério foi sempre se inspirar no original, homenagear a música acrescentando algo novo, sem descaracterizar o som em relação à versão que todo mundo conhece.
 
