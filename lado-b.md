@@ -11,10 +11,9 @@ eyebrow: Obras
 
 ## Tributo Baré-Cola
 
-|  |
-|:---:|
-| <img src="https://srcaetano.github.io/eaiking.github.io/photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="250" height="250"> |
-| [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ) |
+|  |  |
+|---|---|
+| <img src="https://srcaetano.github.io/eaiking.github.io/photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="250" height="250"> | [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ) |
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=s7juJN1vuNKLUFBC&amp;list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
 
@@ -41,25 +40,18 @@ Em 2025/26, produzi o **Tributo Baré-Cola**: uma homenagem às bandas que defin
 
 **Insta Experiments** são covers diversos lançados no Instagram (Red Hot Chili Peppers, Bad Brains, 311, Seeed, Dr. Dre, 50 Cent, Michael Jackson, Beatles, Nirvana, dentre outros).
 
-| |
-|:-:|
-|[![Insta Experiments](photos/insta_exp_vol1.jpeg)](https://www.youtube.com/playlist?list=PLS6NF350A-ZJWt8zjqGFBWZMMxmJqNJWh) |
-| [Insta Experiments](https://www.youtube.com/playlist?list=PLS6NF350A-ZJWt8zjqGFBWZMMxmJqNJWh) |
+|   |   |
+|---|---|
+|[![Insta Experiments](photos/insta_exp_vol1.jpeg)](https://www.youtube.com/playlist?list=PLS6NF350A-ZJWt8zjqGFBWZMMxmJqNJWh) | [Insta Experiments](https://www.youtube.com/playlist?list=PLS6NF350A-ZJWt8zjqGFBWZMMxmJqNJWh) |
 
 
 ## Mashups
 
 Guitarras, batidas e refrões emprestados, recombinados até virar outra coisa. Às vezes a graça está em pegar duas coisas que não deveriam se encontrar e ver o que surge.
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/playlist?list=PLS6NF350A-ZLqrCYTOCw28ZGrdv4IFgib" 
-  title="Mashups" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+|   |   |
+|---|---|
+|[![Mashups](photos/Imgs_estudio_05.jpg)](https://www.youtube.com/playlist?list=PLS6NF350A-ZLqrCYTOCw28ZGrdv4IFgib) | [Mashups](https://www.youtube.com/playlist?list=PLS6NF350A-ZLqrCYTOCw28ZGrdv4IFgib) |
 
 ## Playlists
 
