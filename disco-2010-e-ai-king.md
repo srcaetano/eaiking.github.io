@@ -7,7 +7,7 @@ eyebrow: Obras
 [![E Aí King? (2010)](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Capa_1o_disco.jpeg)](https://onerpm.link/2492153310)
 >[E Aí King? (2010)](https://onerpm.link/2492153310)
 
-Neste primeiro disco ([OUÇA AQUI](https://onerpm.link/2492153310)), dei vazão a vários temas que me interessavam na época:
+Neste primeiro disco, dei vazão a vários temas que me interessavam na época:
 
 - **A importância de relacionamentos sinceros** — *Armadilhas*
 - **Relacionamentos realistas** — *Canino*
