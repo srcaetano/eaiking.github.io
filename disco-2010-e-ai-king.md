@@ -4,7 +4,7 @@ title: E Aí King? (2010)
 eyebrow: Obras
 ---
 
-[![E Aí King? (2010)](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Capa_1o_disco.jpeg)](https://onerpm.link/2492153310)
+[![E Aí King? (2010)](photos/Capa_1o_disco.jpeg)](https://onerpm.link/2492153310)
 >[E Aí King? (2010)](https://onerpm.link/2492153310)
 
 Neste primeiro disco, dei vazão a vários temas que me interessavam na época:
@@ -106,6 +106,15 @@ E me orgulho muito de ter conseguido fazê-lo.
 
 Aprendi muito com ele sobre **gravação, composição e sobre o efeito que uma letra pode ter sobre amigos, familiares e ouvintes**.
 
+## Videoclipe de "Bom Senso"
+
+[![E Ai King - Bom Senso](https://img.youtube.com/vi/YYGAHIA1fZE/0.jpg)](https://www.youtube.com/watch?v=-7PD0tLPXcI "E Ai King - Bom Senso")
+> [E Ai King - Bom Senso (2011)](https://www.youtube.com/watch?v=YYGAHIA1fZE)
+
+Também lancei um video clipe da música de trabalho do primeiro disco, E Aí King?, gravado em Novembro de 2010, em Maragogi, Alagoas. Dancehall com samba rock sobre encontrar seu caminho num mundo caótico e cheio de informação.
+
 ## Referências
 
 A playlist associada ao disco reúne algumas das músicas que usei como referência para compor e gravar cada faixa.
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4YtEvZiEMx3xbsofDmb4q8?utm_source=generator&si=3893c035aa334973" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

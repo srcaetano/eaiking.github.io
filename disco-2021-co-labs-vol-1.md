@@ -4,18 +4,18 @@ title: Co-Labs Volume 1 (2021)
 eyebrow: Obras
 ---
 
-[![Co-Labs Vol. 1 (2021)](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Capa_Co-Labs_volume1_final.jpeg)](https://onerpm.link/323458888910)
+[![Co-Labs Vol. 1 (2021)](photos/Capa_Co-Labs_volume1_final.jpeg)](https://onerpm.link/323458888910)
 >[Co-Labs Vol. 1 (2021)](https://onerpm.link/323458888910)
 
 Depois do primeiro disco, alguns amigos quiseram gravar comigo: eu fazia os instrumentais, eles traziam letra e melodia.
 
 |     |     |
 |:---:|:---:|
-| ![Ace Crew Dirty](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Co-Labs_Vol1_ACD.jpeg) | [Ace Crew Dirty](https://open.spotify.com/artist/7Bk6upgJEYC9HHPm2AYU1G) |
-| ![Dubti](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Co-Labs_Vol1_Dubti.jpeg) | [Dubti](https://open.spotify.com/artist/6CpQ2G5UQCbuYJSxWu4uRD) |
-| ![Pacômelézotrés](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Co-Labs_Vol1_Paco.jpeg) | [Pacômelézotrés](https://open.spotify.com/artist/1cIdczsJpOsRoUfagpYERM) |
-| ![Pê Gadelha](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Co-Labs_Vol1_Pe_Gadelha.jpeg) | [Pê Gadelha](https://www.instagram.com/pegadelha/) |
-| ![Velo Soul](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Co-Labs_Vol1_Velo_Soul.jpeg) | [Velo Soul](https://open.spotify.com/artist/0hPf9Wqepw0ktkxAZ5Jo3v) |
+| ![Ace Crew Dirty](photos/Co-Labs_Vol1_ACD.jpeg) | [Ace Crew Dirty](https://open.spotify.com/artist/7Bk6upgJEYC9HHPm2AYU1G) |
+| ![Dubti](photos/Co-Labs_Vol1_Dubti.jpeg) | [Dubti](https://open.spotify.com/artist/6CpQ2G5UQCbuYJSxWu4uRD) |
+| ![Pacômelézotrés](photos/Co-Labs_Vol1_Paco.jpeg) | [Pacômelézotrés](https://open.spotify.com/artist/1cIdczsJpOsRoUfagpYERM) |
+| ![Pê Gadelha](photos/Co-Labs_Vol1_Pe_Gadelha.jpeg) | [Pê Gadelha](https://www.instagram.com/pegadelha/) |
+| ![Velo Soul](photos/Co-Labs_Vol1_Velo_Soul.jpeg) | [Velo Soul](https://open.spotify.com/artist/0hPf9Wqepw0ktkxAZ5Jo3v) |
 
 Esse disco reúne essas parcerias, cada faixa nascida de um encontro diferente, do rock ao reggae jamaicano ao hip hop dos anos 90.
 
@@ -43,5 +43,11 @@ Além do disco, fiz 5 episódios de um podcast com os músicos do disco, relembr
 Além do disco, gravei conversas individuais com cada um dos cantores em formato de podcast:
 
 
-[![Co-Labs Vol. 1 (2021)](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Co-Labs_Vol1_podcast.jpeg)](https://onerpm.link/323458888910)
+[![Co-Labs Vol. 1 (2021)](photos/Co-Labs_Vol1_podcast.jpeg)](https://onerpm.link/323458888910)
 > [Podcast Co-Labs Vol. 1](https://www.youtube.com/playlist?list=PLS6NF350A-ZJTEgEAMvvcWEs8moCgDAgo)
+
+## Referências
+
+A playlist associada ao disco reúne algumas das músicas que usei como referência para compor e gravar cada faixa.
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4eyHb24701kdsEQs3KieEB?utm_source=generator&si=1d273aa35adf4a43" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

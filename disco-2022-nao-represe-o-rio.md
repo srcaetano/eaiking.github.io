@@ -5,7 +5,7 @@ eyebrow: Obras
 ---
 
 
-[![Não Represe o Rio (2022)](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Capa_Co-Labs_volume1_final.jpeg)](https://onerpm.link/128350492054)
+[![Não Represe o Rio (2022)](photos/Capa_Co-Labs_volume1_final.jpeg)](https://onerpm.link/128350492054)
 >[Não Represe o Rio (2022)](https://onerpm.link/128350492054)
 
 _Não Represe o Rio_ é meu terceiro disco, e meu predileto. Além de disco, ele virou o livro [Não Represe o Rio: da Procrastinação ao Fluxo](https://www.amazon.com.br/N%C3%A3o-Represe-Rio-procrastina%C3%A7%C3%A3o-fluxo-ebook/dp/B0B9YN5DK5). Ambos nasceram da minha digestão de tudo o que aconteceu na pandemia de covid-19, especialmente comigo mesmo:
@@ -46,4 +46,19 @@ A capa é uma foto que tirei do córrego.
 
 ### O livro
 
+[![Não Represe o Rio: da Procrastinação ao Fluxo](photos/Capa_livro.png))(https://www.amazon.com.br/N%C3%A3o-Represe-Rio-procrastina%C3%A7%C3%A3o-fluxo-ebook/dp/B0B9YN5DK5)
+
 O livro que acompanha o disco, [Não Represe o Rio: da Procrastinação ao Fluxo](https://www.amazon.com.br/N%C3%A3o-Represe-Rio-procrastina%C3%A7%C3%A3o-fluxo-ebook/dp/B0B9YN5DK5), dá mais detalhes do meu processo de terapia e cura, acompanhando cada música e seus significados pessoais.
+
+### Videoclipe de "Sonhando em Sua Companhia"
+
+[![E Ai King - Sonhando em Sua Companhia](https://img.youtube.com/vi/YYGAHIA1fZE/0.jpg)](https://www.youtube.com/watch?v=YYGAHIA1fZE "E Ai King - Sonhando em Sua Companhia")
+> [E Ai King - Sonhando em Sua Companhia (2023)](https://www.youtube.com/watch?v=YYGAHIA1fZE)
+
+Além do disco e do livro, lancei o [videoclipe de "Sonhando em Sua Companhia"](https://www.youtube.com/watch?v=Pqxpqldl9KE), gravado em expedição na Baía de Ilha Grande em 2 de março de 2023. É uma música sobre a crença em vida após a morte, e na felicidade do reencontro com quem já perdemos.
+
+## Referências
+
+A playlist associada ao disco reúne algumas das músicas que usei como referência para compor e gravar cada faixa.
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/14G7LD6Bcm32BF6QBTQyFM?utm_source=generator&si=2d4623d1c5a94839" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
