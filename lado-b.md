@@ -15,7 +15,7 @@ eyebrow: Obras
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=s7juJN1vuNKLUFBC&amp;list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=s7juJN1vuNKLUFBC&amp;list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin" title="Tributo Baré-Cola" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin" title="Tributo Baré-Cola" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Em 2025/26, produzi o [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ): uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada ["Geração Baré-Cola"](https://www.youtube.com/@geracaobare-cola5773). A ideia nasceu simples: usar o efeito de rede entre artistas para dar fôlego novo a essas músicas, convidando outros músicos a gravar em cima de uma pré-produção que eu preparava faixa a faixa, cada instrumento em trilha separada. Entraram no projeto releituras de:
