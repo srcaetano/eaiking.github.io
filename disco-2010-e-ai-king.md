@@ -4,7 +4,10 @@ title: E Aí King? (2010)
 eyebrow: Obras
 ---
 
-Neste primeiro disco, dei vazão a vários temas que me interessavam na época:
+[![E Aí King? (2010)](https://github.com/srcaetano/eaiking.github.io/blob/main/photos/Capa_1o_disco.jpeg)](https://onerpm.link/2492153310)
+>[E Aí King? (2010)](https://onerpm.link/2492153310)
+
+Neste primeiro disco ([OUÇA AQUI](https://onerpm.link/2492153310)), dei vazão a vários temas que me interessavam na época:
 
 - **A importância de relacionamentos sinceros** — *Armadilhas*
 - **Relacionamentos realistas** — *Canino*
@@ -21,23 +24,25 @@ A capa mostra meus delicados pés numa praia em Maragogi, Alagoas, onde eu e min
 
 Quis representar nessa foto o trabalho que tive no disco: compus todas as músicas, gravei e programei os instrumentos, além de cantar.
 
-O disco foi mixado e masterizado por **Rafael Maranhão**, no **Estúdio Madruga**, em Brasília, em setembro/outubro de 2010.
+O disco foi mixado e masterizado por [Rafael Maranhão](https://www.instagram.com/maranhaotrampa/), no [Estúdio Madruga](https://www.estudiomadruga.com.br/), em Brasília, em setembro/outubro de 2010.
 
 ## Histórias por trás das músicas
 
 ### Calor do Dia
 
-*Calor do Dia* não é totalmente original, mas uma livre versão — não exatamente igual — de uma música do Yellowman, **Love It**.
+*Calor do Dia* não é totalmente original, mas uma livre versão — não exatamente igual — de uma música do Yellowman, [Love It](http://www.youtube.com/watch?v=uDz4EGcQ0Ag).
 
-Yellowman é um dos grandes cantores do dancehall jamaicano da década de 80 e uma referência para muita gente. O 311, por exemplo, aproveitou o começo de uma música dele, *Mr. Chin*, em *All Mixed Up*.
+Yellowman é um dos [grandes cantores do dancehall jamaicano da década de 80](http://en.wikipedia.org/wiki/Yellowman) e uma referência para muita gente. O 311, por exemplo, aproveitou o começo de uma música dele, [Mr. Chin](http://www.youtube.com/watch?v=9CGRUY3AsCM), em [All Mixed Up](http://www.youtube.com/watch?v=NPSBfIRVqJg).
 
-A melodia de outra de suas músicas, *Zunguzungunguzunguzeng*, foi basicamente reaproveitada em pelo menos 14 músicas diferentes.
+A melodia de outra de suas músicas, [Zunguzungunguzunguzeng](https://www.youtube.com/watch?v=HV46OGU7ksE), foi basicamente reaproveitada em pelo menos 14 músicas diferentes, como mostra [esse artigo muito interessante](http://wayneandwax.com/?p=137).
 
-Eu sempre me amarrei em Yellowman, especialmente na melodia do refrão de *Love It*. Mas o resto da letra era bem tosco, então a re-adaptei para algo mais palatável.
+Aqui no Brasil, ele é mais conhecido por 2 menções do Planet Hemp na música <a href="http://www.youtube.com/watch?v=P-W2JmG9vtQ">Mantenha o Respeito</a>: [_Nobody move, nobody get hurt_](http://www.youtube.com/watch?v=-Nh5CapYICg), _ninguém se move, ninguém se machucará_ e _Eu ouço **Yellow**, Buju Banton, Cutty Ranks, Shabba, >porque eles não querem me impedir de fazer fumaça_. 
+
+Eu sempre me amarrei em Yellowman, especialmente na melodia do refrão de *Love It*. Mas o resto da letra era bem tosco, então a re-adaptei para algo mais... palatável.
 
 ### Charles
 
-*Charles* é da época em que eu tocava no **Grajaú 434** e foi uma das primeiras músicas feitas com a banda.
+*Charles* é da época em que eu tocava no [Grajaú 434](https://music.youtube.com/watch?v=TuVL_QTbhhg) e foi uma das primeiras músicas feitas com a banda.
 
 Para o disco, dei uma repaginada nela, mudando algumas partes da letra e várias partes da base.
 
@@ -65,7 +70,7 @@ As frequências graves do baixo foram obtidas diretamente do centro da Terra, ou
 
 *Sol na Lata* começou como um rock básico, com bateria bem reta e guitarras pesadas.
 
-Depois resolvi colocar uma bateria eletrônica no estilo do **Asian Dub Foundation**.
+Depois resolvi colocar uma bateria eletrônica no estilo do [Asian Dub Foundation](https://www.youtube.com/channel/UCPoeHrAk4hofTF6oZ1IWqOw).
 
 A música fala sobre aquele momento na vida em que você **sabe o que tem que fazer**.
 
@@ -77,7 +82,7 @@ Um funk rock com guitarra pesada e violão, em homenagem à malandragem do pegad
 
 ### Baile
 
-Um funk pancadão com guitarras distorcidas, algo meio **Comunidade Nin-Jitsu**.
+Um funk pancadão com guitarras distorcidas, algo meio [Comunidade Nin-Jitsu](https://www.youtube.com/c/ComunidadeNinJitsu).
 
 ### Canino
 
