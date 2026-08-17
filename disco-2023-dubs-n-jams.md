@@ -10,13 +10,13 @@ Esse disco conta com uma música nova e versões instrumentais de músicas minha
 
 ### _Tracklist_
 
-- Dub Pills: reggae e dub em inglês, em ritmo de valsa, sobre o poder psicodélico da música, só que sem efeitos colaterais e nem questões éticas.
-- Bom Senso Dub: versão dub de “Bom Senso” (E Aí King?, 2010).
-- Atraso Jam: versão instrumental de “Atraso” (Co-Labs Volume 1, 2021).
-- O Viajante do Dub: versão dub de “O Viajante” (Não Represe o Rio, 2022).
-- Paco Dub: versão dub inspirada nas parcerias com Paco.
-- A Jam Mais Bonita de Goianésia: versão instrumental de “O Homem Mais Bonito de Goianésia” (E Aí King?, 2010).
-- A Régua de Dub: versão dub de “A Régua de Ouro” (Não Represe o Rio, 2022).
+- **Dub Pills** – reggae e dub em inglês, em ritmo de valsa, sobre o poder psicodélico da música, só que sem efeitos colaterais e nem questões éticas.
+- **Bom Senso Dub** – versão dub de “Bom Senso” (E Aí King?, 2010).
+- **Atraso Jam** – versão instrumental de “Atraso” (Co-Labs Volume 1, 2021).
+- **O Viajante do Dub** – versão dub de “O Viajante” (Não Represe o Rio, 2022).
+- **Paco Dub** – versão dub inspirada nas parcerias com Paco.
+- **A Jam Mais Bonita de Goianésia** – versão instrumental de “O Homem Mais Bonito de Goianésia” (E Aí King?, 2010).
+- **A Régua de Dub** – versão dub de “A Régua de Ouro” (Não Represe o Rio, 2022).
 
 ### Videoclipe de "Dub Pills"
 
