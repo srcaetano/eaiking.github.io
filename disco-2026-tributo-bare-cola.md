@@ -4,9 +4,16 @@ title: Tributo Baré-Cola (2026)
 eyebrow: Obras
 ---
 
+[![Co-Labs Volume 2 - Tributo Baré-Cola (2026)](photos/Tributo_capa.jpeg)]([https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ)
+>[Co-Labs Volume 2 - Tributo Baré-Cola (2026)](https://onerpm.link/2492153310)
+
+Em 2025/26, produzi o **Co-Labs Volume 2 - Tributo Baré-Cola**: uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada ["Geração Baré-Cola"](https://www.youtube.com/@geracaobare-cola5773).
+
+<!--
 |  |  |
 |---|---|
-| <img src="photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="250" height="250"> | Em 2025/26, produzi o [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ): uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada ["Geração Baré-Cola"](https://www.youtube.com/@geracaobare-cola5773). |
+| <img src="photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="250" height="250"> | Em 2025/26, produzi o [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ): uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada ["Geração Baré-Cola"](https://www.youtube.com/@geracaobare-cola5773). | -->
+
 <!-- | <img src="https://srcaetano.github.io/eaiking.github.io/photos/Tributo_capa.jpeg" alt="Tributo Baré-Cola" width="250" height="250"> | Em 2025/26, produzi o [Tributo Baré-Cola](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ): uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada ["Geração Baré-Cola"](https://www.youtube.com/@geracaobare-cola5773). | -->
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=s7juJN1vuNKLUFBC&amp;list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
@@ -52,10 +59,10 @@ O critério foi sempre se inspirar no original, homenagear a música acrescentan
 
 [![E Ai King & DJ SOIA - Eu Quero Ver o Oco / Herbocinética](https://img.youtube.com/vi/b8Bb-vMBIRk/0.jpg)](https://www.youtube.com/watch?v=b8Bb-vMBIRk "E Ai King & DJ SOIA - Eu Quero Ver o Oco / Herbocinética")
 
-**E Ai King - 45:** video do *Co-Labs Vol. 2 - Tributo Baré-Cola*. Versão dubzada de *45*, do primeiro disco do Maskavo Roots de 1995, em parceria com Renê Cosac Daher na seleção de discos e livros.
+**E Ai King - 45:** video do *Co-Labs Vol. 2 - Tributo Baré-Cola*. Versão dubzada de *45*, do primeiro disco do Maskavo Roots de 1995, em parceria com [Renê Cosac Daher](https://www.instagram.com/daherrenecosac) na seleção de discos e livros.
 
 [![E Ai King - 45](https://img.youtube.com/vi/zuYVMzcP800/0.jpg)](https://www.youtube.com/watch?v=zuYVMzcP800 "E Ai King - 45")
 
-**E Ai King & Brasa Tchecov - Reggae de Raiz:** video do *Co-Labs Vol. 2 - Tributo Baré-Cola*, uma versão de *Reggae de Raiz*, do primeiro disco do Natiruts de 1996, em parceria com Brasa Tchecov nos vocais (oitava baixa) e cavaquinho wah-wahzado.
+**E Ai King & Brasa Tchecov - Reggae de Raiz:** video do *Co-Labs Vol. 2 - Tributo Baré-Cola*, uma versão de *Reggae de Raiz*, do primeiro disco do Natiruts de 1996, em parceria com [Brasa Tchecov](https://www.instagram.com/andrei_brasa_tchecov) nos vocais (oitava baixa) e cavaquinho wah-wahzado.
 
 [![E Ai King & Brasa Tchecov - Reggae de Raiz](https://img.youtube.com/vi/Br7Qlc98uZQ/0.jpg)](https://www.youtube.com/watch?v=Br7Qlc98uZQ "E Ai King & Brasa Tchecov - Reggae de Raiz")
