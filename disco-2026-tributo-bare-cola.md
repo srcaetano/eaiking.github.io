@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tributo Baré-Cola (2026)
+title: Co-Labs Volume 2 - Tributo Baré-Cola (2026)
 eyebrow: Obras
 ---
 
