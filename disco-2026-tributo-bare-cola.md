@@ -5,7 +5,7 @@ eyebrow: Obras
 ---
 
 [![Co-Labs Volume 2 - Tributo Baré-Cola (2026)](photos/Tributo_capa.jpeg)]([https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ)
->[Co-Labs Volume 2 - Tributo Baré-Cola (2026)](https://onerpm.link/2492153310)
+>[Co-Labs Volume 2 - Tributo Baré-Cola (2026)](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ)
 
 Em 2025/26, produzi o **Co-Labs Volume 2 - Tributo Baré-Cola**: uma homenagem às bandas que definiram a cena de rock de Brasília nos anos 90, a chamada ["Geração Baré-Cola"](https://www.youtube.com/@geracaobare-cola5773).
 
