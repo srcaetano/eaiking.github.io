@@ -15,9 +15,9 @@ Repositório da [página oficial](https://eaiking.com/).
 
 ## Discos
 
-| <a href="https://onerpm.link/2492153310" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_1o_disco.jpeg" width="250" height="250" alt="E Aí King?"></a> | <a href="https://onerpm.link/323458888910" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Co-Labs_volume1_final.jpeg" width="250" height="250" alt="Co-Labs Volume 1"></a> | <a href="https://onerpm.link/128350492054" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Nao_Represe_o_Rio_3000x3000.jpeg" width="250" height="250" alt="Não Represe o Rio"></a> | <a href="https://onerpm.link/625015263852" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Dubs_Jams_3000x3000.jpeg" width="250" height="250" alt="Dubs & Jams"></a> |
-|:---:|:---:|:---:|:---:|
-| [E Aí King? (2010)](https://onerpm.link/2492153310) | [Co-Labs Volume 1 (2021)](https://onerpm.link/323458888910) | [Não Represe o Rio (2022)](https://onerpm.link/128350492054) |  [Dubs & Jams (2023)](https://onerpm.link/625015263852) |
+| <a href="https://onerpm.link/2492153310" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_1o_disco.jpeg" width="250" height="250" alt="E Aí King?"></a> | <a href="https://onerpm.link/323458888910" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Co-Labs_volume1_final.jpeg" width="250" height="250" alt="Co-Labs Volume 1"></a> | <a href="https://onerpm.link/128350492054" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Nao_Represe_o_Rio_3000x3000.jpeg" width="250" height="250" alt="Não Represe o Rio"></a> | <a href="https://onerpm.link/625015263852" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Dubs_Jams_3000x3000.jpeg" width="250" height="250" alt="Dubs & Jams"></a> |  <a href="https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ" target="_blank" rel="noopener noreferrer"><img src="photos/Tributo_capa.jpeg" width="250" height="250" alt="Dubs & Jams"></a>  |
+|:---:|:---:|:---:|:---:|:---:|
+| [E Aí King? (2010)](https://onerpm.link/2492153310) | [Co-Labs Volume 1 (2021)](https://onerpm.link/323458888910) | [Não Represe o Rio (2022)](https://onerpm.link/128350492054) |  [Dubs & Jams (2023)](https://onerpm.link/625015263852) | [Co-Labs Volume 2 - Tributo Baré-Cola (2026)](https://youtube.com/playlist?list=PLS6NF350A-ZJE6ii0FR5VGrgQkurSJMin&si=tj3wtg5boKEVjPFJ) |
 
 ## Singles
 
@@ -43,16 +43,3 @@ Repositório da [página oficial](https://eaiking.com/).
 | [![E Ai King - Bom Senso](https://img.youtube.com/vi/-7PD0tLPXcI/0.jpg)](https://www.youtube.com/watch?v=-7PD0tLPXcI "E Ai King - Bom Senso") |
 | [E Ai King - Bom Senso (2011)](https://www.youtube.com/watch?v=-7PD0tLPXcI) |
 
-## Tributo Baré-Cola (2026)
-
-| [![Raimundos / Os Cabeloduro / DFC (Baré-Cola pt 1)](https://img.youtube.com/vi/XFw9xRCRDLg/0.jpg)](https://www.youtube.com/watch?v=XFw9xRCRDLg "Raimundos / Os Cabeloduro / DFC (Baré-Cola pt 1)") |
-|:---:|
-| ["Raimundos / Os Cabeloduro / DFC (Baré-Cola pt 1)](https://www.youtube.com/watch?v=XFw9xRCRDLg) |
-| [![Rumbora / Maskavo Roots / Little Quail and the Mad Birds (Baré-Cola pt 2)](https://img.youtube.com/vi/gNA9CCmPayM/0.jpg)](https://www.youtube.com/watch?v=gNA9CCmPayM "Rumbora / Maskavo Roots / Little Quail and the Mad Birds (Baré-Cola pt 2)") |
-| [Rumbora / Maskavo Roots / Little Quail and the Mad Birds (Baré-Cola pt 2)](https://www.youtube.com/watch?v=gNA9CCmPayM) |
-| [![Câmbio Negro / Pravda / Rumbora / Raimundos (Baré-Cola pt 3)](https://img.youtube.com/vi/pg_WBu3bTIE/0.jpg)](https://www.youtube.com/watch?v=pg_WBu3bTIE "Câmbio Negro / Pravda / Rumbora / Raimundos (Baré-Cola pt 3)") |
-| [Câmbio Negro / Pravda / Rumbora / Raimundos (Baré-Cola pt 3)](https://www.youtube.com/watch?v=pg_WBu3bTIE) |
-| [![Raimundos / Little Quail and the Mad Birds / Os Cabeloduro / DFC (Baré-Cola pt 4)](https://img.youtube.com/vi/ZCSZ4-hovHA/0.jpg)](https://www.youtube.com/watch?v=ZCSZ4-hovHA "Raimundos / Little Quail and the Mad Birds / Os Cabeloduro / DFC (Baré-Cola pt 4)") |
-| [Raimundos / Little Quail and the Mad Birds / Os Cabeloduro / DFC (Baré-Cola pt 4)](https://www.youtube.com/watch?v=ZCSZ4-hovHA) |
-| [![Cássia Eller / Natiruts / Maskavo Roots (Baré-Cola pt 5)](https://img.youtube.com/vi/uKxC3FWov44/0.jpg)](https://www.youtube.com/watch?v=uKxC3FWov44 "Cássia Eller / Natiruts / Maskavo Roots (Baré-Cola pt 5)") |
-| [Cássia Eller / Natiruts / Maskavo Roots (Baré-Cola pt 5)](https://www.youtube.com/watch?v=uKxC3FWov44) |
