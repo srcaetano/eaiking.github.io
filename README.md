@@ -31,7 +31,7 @@ Repositório da [página oficial](https://eaiking.com/).
 
 | <a href="https://onerpm.link/913961120973" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Esse_rapaz.jpeg" width="250" height="250" alt="Esse Rapaz"></a> | [Esse Rapaz (2022)](https://onerpm.link/913961120973) |
 |---|---|
-| <a href="https://onerpm.link/226395537129" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Lifeboat.jpeg" width="250" height="250" alt="Lifeboat"></a> | [Lifeboat (2023)](https://onerpm.link/226395537129) |
+| <a href="https://onerpm.link/226395537129" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Lifeboat.jpeg" width="250" height="250" alt="Lifeboat"></a> | [Lifeboat (2022)](https://onerpm.link/226395537129) |
 | <a href="https://onerpm.link/172882780400" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Brasil-lia.jpeg" width="250" height="250" alt="Brasil-lia"></a> | [Brasil-lia (2023)](https://onerpm.link/172882780400) |
 | <a href="https://onerpm.link/284499089407" target="_blank" rel="noopener noreferrer"><img src="photos/Capa_Tudo_Passaro.jpeg" width="250" height="250" alt="Tudo Pássaro"></a> | [Tudo Pássaro (2024)](https://onerpm.link/284499089407) |
 
